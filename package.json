@@ -20,5 +20,9 @@
   "homepage": "https://github.com/eg180/node-api1-project#readme",
   "devDependencies": {
     "eslint": "^7.14.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "shortid": "^2.2.16"
   }
 }
